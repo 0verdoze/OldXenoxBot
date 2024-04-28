@@ -1,6 +1,6 @@
 
-# My old Metin2 Bot
-This is a bot that i created as my first reverse engineering project (that was in 2019)
+# My old Metin2 Bot from 2019
+This is a bot that i created as my first reverse engineering project
 It was used on one of the private servers called XenoxMT2
 
 The bot consist of multiple applications, but for now only bot itself is shared here
